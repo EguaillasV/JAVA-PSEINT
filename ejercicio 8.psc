@@ -1,0 +1,9 @@
+Algoritmo sin_titul
+	DEFINIR RADIO,AREA,LON COMO REAL;
+	Escribir "DIGITE EL VALOR DEL RADIO";
+	Leer RADIO;
+	AREA <- PI*RADIO^2;
+	LON <- 2*PI*RADIO;
+	Escribir "EL AREA DE LA CIRCUNFERENCIA ES:", AREA;
+	Escribir "LA LONGITUD ES:",LON;
+FinAlgoritmo
